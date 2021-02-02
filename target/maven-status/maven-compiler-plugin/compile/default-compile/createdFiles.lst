@@ -1,0 +1,11 @@
+org\example\sweater\repos\MessageRepo.class
+org\example\sweater\controllers\MainController.class
+org\example\sweater\domain\User.class
+org\example\sweater\config\MvcConfig.class
+org\example\sweater\domain\Role.class
+org\example\sweater\config\WebSecurityConfig.class
+org\example\sweater\services\UserService.class
+org\example\sweater\domain\Message.class
+org\example\sweater\Application.class
+org\example\sweater\repos\UserRepo.class
+org\example\sweater\controllers\RegistrationController.class
